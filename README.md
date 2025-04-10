@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**voidsiddhi/voidsiddhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🖤 VoidSiddhi
 
-Here are some ideas to get you started:
+> Silent in code. Loud in impact.  
+> Cold mind. Clean logic. Quiet ambition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+👩‍💻 **Tech Explorer | Python Learner**  
+🧠 Learning one line of code at a time  
+🕶 Building in silence. Let the results speak.
+
+---
+
+### 🔧 Tools I Use
+- Python 🐍
+- Git & GitHub ⚙️
+- Linux (soon 💻)
+- Dark Mode only 😈
+
+---
+
+### 🌱 My Coding Journey
+Started in 2025.  
+Focused, curious, and quietly leveling up every single day.
+
+---
+
+### 🕳️ Quote
+> *"The void doesn’t scare me. I run it."*  
+> — VoidSiddhi
+
